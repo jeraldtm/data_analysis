@@ -1,0 +1,26 @@
+#Procedure: <daedalus.procedures.AMRProcedure.AMRAngProcedure>
+#Parameters:
+#	Applied Sample Voltage: 0.1 V
+#	Magnet Calibration Filename: ./calibrations/icarus
+#	Delay: 0.3 s
+#	End Azimuthal Field: 176 deg
+#	Start Azimuthal Field: 0 deg
+#	Azimuthal Field Step: 5 deg
+#	Magnetic Field Polar Angle: 0 deg
+#	Field Strength: 0.1 T
+#	Time Queued: 12:32pm 2019-07-04
+#	Sample Name: CE6_STFMRC3
+#	Lockin Sensitivity: 5e-06 V
+#	Probe Station Name: Icarus
+#	Lockin Time Constant: 0.1 s
+#	Wheatstone R1 Fixed Resistance: 3880 Ohm
+#	Wheatstone R2 Variable Resistance: 234.51 Ohm
+#	Wheatstone R3 Fixed Resistance: 3960 Ohm
+#Data:
+X,Y,field_azimuth_measured,field_azimuth,elapsed_time
+-1.5e-05,9.518e-06,0.0,0.0,0.4910280704498291
+-1.5e-05,8.0915e-06,5.008,5.0,5.124293327331543
+-1.5e-05,8.6835e-06,10.006,10.0,9.830562353134155
+-1.5e-05,7.831e-06,15.005,15.0,14.512830018997192
+-1.5e-05,8.509e-06,20.003,20.0,19.219099283218384
+-1.5e-05,9.1045e-06,25.004,25.0,23.92836856842041

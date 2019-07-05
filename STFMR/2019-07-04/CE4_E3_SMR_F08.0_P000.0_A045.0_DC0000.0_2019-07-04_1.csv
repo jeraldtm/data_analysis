@@ -1,0 +1,21 @@
+#Procedure: <daedalus.procedures.STFMRProcedure.STFMRProcedure>
+#Parameters:
+#	Magnet Calibration Filename: ./calibrations/icarus
+#	DC Bias Current: 0 A
+#	Delay: 0.3 s
+#	Magnetic Field Azimuthal Angle: 45 deg
+#	Magnetic Field Polar Angle: 0 deg
+#	End Magnetic Field: 0.2 T
+#	Start Magnetic Field: 0 T
+#	Magnetic Field Step: 0.0005 T
+#	Swap Field: True
+#	Time Queued: 09:19am 2019-07-04
+#	RF Frequency: 8 GHz
+#	RF Power: 23 dBmW
+#	Sample Name: test
+#	Lockin Sensitivity: 5e-06 V
+#	Probe Station Name: Icarus
+#	Lockin Time Constant: 0.1 s
+#	Use Bias Current: False
+#Data:
+X,Y,field_strength,elapsed_time

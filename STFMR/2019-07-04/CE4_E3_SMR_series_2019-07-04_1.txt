@@ -1,0 +1,17 @@
+# swept procedure column: field_strength
+# swept series parameter: field_azimuth
+# Parameters:
+#
+# Initial Azimuthal Angle: 42 deg
+# Final Azimuthal Angle: 48 deg
+# Azimuthal Angle Step: 1 deg
+#
+# Files in Series:
+#
+test_STFMR_F08.0_P000.0_A042.0_DC0000.0_2019-07-04_1.csv
+test_STFMR_F08.0_P000.0_A043.0_DC0000.0_2019-07-04_1.csv
+test_STFMR_F08.0_P000.0_A044.0_DC0000.0_2019-07-04_1.csv
+test_STFMR_F08.0_P000.0_A045.0_DC0000.0_2019-07-04_4.csv
+test_STFMR_F08.0_P000.0_A046.0_DC0000.0_2019-07-04_1.csv
+test_STFMR_F08.0_P000.0_A047.0_DC0000.0_2019-07-04_1.csv
+test_STFMR_F08.0_P000.0_A048.0_DC0000.0_2019-07-04_1.csv
